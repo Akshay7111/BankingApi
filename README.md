@@ -23,7 +23,7 @@ Run the BankingapiApplication.java file. The application will run on http://loca
 - /accounts/create
   - Create a new account
   - Input (POST): all mandatory
-    "email": "akshay@gmail.com",
+    "email": "akshay7111@gmail.com",
     "accountHolderName": "akshay",
     "balance":180, 
     "currencyCode": "INR"
@@ -47,5 +47,6 @@ Run the BankingapiApplication.java file. The application will run on http://loca
 - Transfer funds can't be done from with same source and destination
 - Account balance must be greater than amount transfering
 - money transfer should be > 1.
+
 
 
