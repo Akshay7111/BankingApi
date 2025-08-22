@@ -6,7 +6,7 @@
 Clone the Repository
 
 ```bash
-git clone https://github.com/akshay701/BankingApi
+git clone https://github.com/akshay7111/BankingApi
 ```
  
 
@@ -47,4 +47,5 @@ Run the BankingapiApplication.java file. The application will run on http://loca
 - Transfer funds can't be done from with same source and destination
 - Account balance must be greater than amount transfering
 - money transfer should be > 1.
+
 
